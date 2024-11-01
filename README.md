@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Refayatul
 - 👀 I’m interested in competetive programming.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
