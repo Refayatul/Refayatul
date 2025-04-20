@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Refayatul
 - 👀 I’m interested in competetive programming.
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning Flutter & Web Development 
+- 💞️ 
+- 📫 How to reach me: 
 
 <!---
 Refayatul/Refayatul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
